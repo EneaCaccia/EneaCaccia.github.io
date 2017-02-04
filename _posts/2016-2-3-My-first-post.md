@@ -2,10 +2,7 @@
 layout: post
 title: My first Post!
 ---
-
-# My First Website
-
-### And my first Blog, to be correct.
+## And my first Blog, to be correct.
 
 For a long time i was looking for an elegant tool to maintain a website, focused on content and letting me tweak the design just enough to make it mine, but not as much as to spend my time maintaining building a template.
 
